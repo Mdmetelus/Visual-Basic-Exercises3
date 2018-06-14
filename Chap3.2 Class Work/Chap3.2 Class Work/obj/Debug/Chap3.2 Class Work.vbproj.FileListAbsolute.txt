@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\bin\Debug\Chap3.2 Class Work.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\bin\Debug\Chap3.2 Class Work.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\bin\Debug\Chap3.2 Class Work.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\bin\Debug\Chap3.2 Class Work.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3._2_Class_Work.frmAge.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3._2_Class_Work.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3.2 Class Work.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3.2 Class Work.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3.2 Class Work.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3.2 Class Work.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap3.2 Class Work\Chap3.2 Class Work\obj\Debug\Chap3.2 Class Work.vbprojResolveAssemblyReference.cache

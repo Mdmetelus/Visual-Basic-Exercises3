@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\bin\Debug\Chap 3.1 Triy Exc1.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap_3._1_Triy_Exc1.frmMath.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap_3._1_Triy_Exc1.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap 3.1 Triy Exc1.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\bin\Debug\Chap 3.1 Triy Exc1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\bin\Debug\Chap 3.1 Triy Exc1.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\bin\Debug\Chap 3.1 Triy Exc1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap 3.1 Triy Exc1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap 3.1 Triy Exc1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Triy Exc1\Chap 3.1 Triy Exc1\obj\Debug\Chap 3.1 Triy Exc1.pdb
